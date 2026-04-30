@@ -1,4 +1,4 @@
-curl -s https://api.git
+theia@theia-wolfannaerik:/home/project/mcino-Introduction-to-Git-and-GitHub$ curl -s https://api.git
 hub.com/repos/ibm-developer-skills-network/mcino-I
 ntroduction-to-Git-and-GitHub/pulls/#7344| jq -r '.head.repo.clone_url'
 null
