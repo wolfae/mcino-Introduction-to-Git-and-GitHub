@@ -2,3 +2,10 @@ theia@theia-wolfannaerik:/home/project/mcino-Introduction-to-Git-and-GitHub$ cur
 hub.com/repos/ibm-developer-skills-network/mcino-I
 ntroduction-to-Git-and-GitHub/pulls/#7344| jq -r '.head.repo.clone_url'
 null
+
+curl -s https://api.git
+hub.com/repos/ibm-developer-skills-network/mcino-I
+ntroduction-to-Git-and-GitHub/pulls/#7344| jq -r '.head.repo.clone_url'
+null
+theia@theia-wolfannaerik:/home/project/mcino-Intro
+duction-to-Git-and-GitHub$
